@@ -3,9 +3,7 @@
 
 <!--
 **jaebin1234/jaebin1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,13 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jaebin1234)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaebin1234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaebin1234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 <h3>🛠 Tech Stack 🛠</h3>
 <h5>### Techs that I've used at least once</h5>
 <p>
@@ -39,7 +34,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/IntellijIDEA-000000?logo=IntellijIDEA&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?logo=VisualStudioCode&logoColor=white"/></a>&nbsp 
 </p>
-<br>
-
 <h5>## Please contact me</h5>
 <a href="mailto:jaebin2586@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jaebin2586@gmail.com"/></a>
