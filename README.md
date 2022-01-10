@@ -42,5 +42,4 @@ Here are some ideas to get you started:
 <br>
 
 <h5>## Please contact me</h5>
-<br>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+<a href="mailto:jaebin2586@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jaebin2586@gmail.com"/></a>
