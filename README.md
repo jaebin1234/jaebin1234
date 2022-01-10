@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaebin1234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3 align="">🛠 Tech Stack 🛠</h3>
+<h3>🛠 Tech Stack 🛠</h3>
 <h5>### Techs that I've used at least once</h5>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
@@ -42,4 +42,5 @@ Here are some ideas to get you started:
 <br>
 
 <h5>## Please contact me</h5>
+<br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
