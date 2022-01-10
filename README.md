@@ -16,8 +16,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-### Techs that I've used at least once
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jaebin1234)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaebin1234)](https://github.com/jaebin1234/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaebin1234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<h3 align="">🛠 Tech Stack 🛠</h3>
+<h5>### Techs that I've used at least once</h5>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"/></a>&nbsp 
@@ -35,10 +43,5 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jaebin1234)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaebin1234)](https://github.com/jaebin1234/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaebin1234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<h5>## Please contact me</h5>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
