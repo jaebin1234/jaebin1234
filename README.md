@@ -1,6 +1,6 @@
 <div align=center>
 
-### 안녕하세요 jaebin 입니다.🙂😄
+### Jaebin who likes new challenges. 🙂😄
 ##### 기록 기록 기록 하자요 !!!
 ---
 
