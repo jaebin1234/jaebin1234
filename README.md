@@ -1,7 +1,6 @@
 <div align=center>
 
-### Jaebin who likes new challenges. 🙂😄
-##### 기록 기록 기록 하자요 !!!
+### Every day is a new challenge
 ---
 
 <h3>🛠 Tech Stack 🛠</h3>
