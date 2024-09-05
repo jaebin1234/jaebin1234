@@ -7,13 +7,13 @@
 
 ##### technology used mainly 
  <p>
-   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
    <br>
-   <img src="https://img.shields.io/badge/postgresql-4479A1?logo=MySQL&logoColor=white"/></a>&nbsp 
-   <img src="https://img.shields.io/badge/redis-F80000?logo=Oracle&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/postgresql-4479A1?logo=postgresql&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/redis-F80000?logo=redis&logoColor=white"/></a>&nbsp 
    <br>
 
 
